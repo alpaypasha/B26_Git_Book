@@ -1,8 +1,6 @@
 
 this is page two
-
-
-we are getting ready to comint
-
-
+we are getting ready to commit
 still nothing
+lot os changing is going on
+
